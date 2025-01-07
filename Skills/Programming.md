@@ -4,22 +4,22 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction
+  - Abstraction: 👂 heard
   - Paradigm
-  - Programm
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Component: 👂 heard
+  - Framework: 👂 heard
+  - Platform: 🖐️ used
+  - Source code: 🖐️ used
   - Object code
   - Machine code
   - Microcode
@@ -29,51 +29,51 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
-  - Class
+  - Method: 🖐️ used
+  - Class: 👂 heard
   - Prototype
   - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 🖐️ used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Camel case: 🖐️ used
+  - Snake case: 👂 heard
+  - Kebab case: 👂 heard
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
-  - Strong typing
+  - Strong typing: 👂 heard
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 👂 heard
+  - Dynamic typing: 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 👂 heard
+  - Hash table: 🖐️ used
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,12 +123,12 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -138,17 +138,17 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,18 +157,18 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
-  - GCC
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -178,22 +178,22 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 👂 heard
+  - Long method/function/procedure: 👂 heard
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters: 👂 heard
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
