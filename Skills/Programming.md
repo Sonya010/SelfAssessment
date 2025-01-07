@@ -1,79 +1,79 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model 
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
-  - Abstraction
+  - Abstraction h
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
-  - Module
-  - Library
+  - Module u
+  - Library u
   - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Component h
+  - Framework h
+  - Platform u
+  - Source code u
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering 
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class h
   - Prototype
   - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Type u
+  - Flag u
+  - Lexical scope u
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Camel case u
+  - Snake case h
+  - Kebab case h
+  - Trailing commas u
+  - Return early u
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types 
   - Type systems
-  - Strong typing
-  - Weak typing
+  - Strong typing h
+  - Weak typing 
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing h
+  - Dynamic typing h
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure u
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure u
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection u
+  - Set h
+  - Hash table u
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,12 +123,12 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -138,17 +138,17 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter h
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,18 +157,18 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Refactoring u
+  - Code review u
+  - Exception u
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -178,22 +178,22 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code h
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops h
+  - Long method/function/procedure h
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters h
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux h
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
